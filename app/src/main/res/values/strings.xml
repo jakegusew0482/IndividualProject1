@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IndividualProject1</string>
+    <string name="textViewUsername">Username</string>
+    <string name="textViewPassword">Password</string>
+    <string name="Login">Login</string>
+    <string name="buttonLogout">Log Out</string>
+    <string name="registerMessage">Please enter the following information</string>
+</resources>
